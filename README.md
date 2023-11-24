@@ -12,5 +12,4 @@ Contribution Guidelines: Github / MDN web documents
 
 Testing Instructions: N/A
 
-Link to example video: https://drive.google.com/file/d/1Tkufm3pBU05HtLdh5cHCPSIjOUFYWVDR/view
 
